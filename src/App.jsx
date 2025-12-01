@@ -1,5 +1,5 @@
 import React from 'react'
-© {new Date().getFullYear()} VotreMédia — Tous droits réservés
+ {new Date().getFullYear()} VotreMédia — Tous droits réservés
 </footer>
 )
 }
